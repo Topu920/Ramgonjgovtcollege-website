@@ -1,0 +1,177 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification\ 
+for details on configuring this project to bundle and minify static web assets. */
+
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+.buttonlog {
+    background-color: #000;
+    border: none;
+    text-align:match-parent;
+    color: white;
+    padding: 8px 14px;
+    text-decoration:solid;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 25px 4px 7px;
+    cursor: pointer;
+    
+}
+.dropbtn {
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    z-index: 1;
+}
+
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-align:left;
+        text-decoration: none;
+        display: block;
+    }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.menu-textsize{
+    font-size:16px;
+    font-weight:bold;
+    text-align:center;
+    padding-left:185px;
+    
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 3px;
+    border: -1px solid transparent;
+}
+.myimage{
+    position: relative;
+    
+    overflow: hidden;
+    left: 130px;
+    top: 0;
+    height: 300px;
+    width: 1500px;
+}
+
+.content-wrap .head {
+    text-align: center;
+    margin: 10px;
+    font-size: 28px;
+    font-weight: bold;
+}
+#ja-botsl {
+    font-weight: bold;
+    text-align:right;
+    margin-top: -20px;
+    background: #8285d8;
+    height: 105px;
+    padding-right:20px;
+   
+}
+#ja-footer {
+    position: relative;
+    margin-top: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #ccc;
+    background: #004262;
+    border-top: 2px solid #ff0000;
+    border-right: 03px;
+}
+
+.module {
+    padding: 0;
+    border: -1px solid #ccc;
+    
+}
+.module-size {
+    margin: 0px 7px 0px 0px;
+    position: relative;
+}
+.content-image {
+    height: 125px;
+    width: 110px;
+    float: left;
+    margin-top: 5px;
+    padding-right: 10px;
+}
+
+.page-title {
+    border-bottom: .05em solid #c6dbf1;
+    padding: 10px 0;
+    margin: .5em 0;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+.mobile {
+    text-align: center;
+}
+
+    .mobile img {
+        height: 160px;
+        width: 160px;
+        border: 1px solid #0D91E6;
+        margin-top: 40px;
+    }
+
+    .mobile h2 {
+        font-size: 16px;
+        color: #282828;
+        margin: 3px;
+        padding: 0;
+    }
+
+    .mobile h3 {
+        font-size: 14px;
+        color: #7d7d7d;
+        margin: 3px;
+        padding: 0;
+    }
+
+    .mobile p {
+        padding: 3px;
+        font-size: 13px;
+        color: #373737;
+    }

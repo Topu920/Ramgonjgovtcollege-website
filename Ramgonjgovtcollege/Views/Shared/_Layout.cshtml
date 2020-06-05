@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <title>Ramgonj Govt. College</title>
+
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+</head>
+<body>
+    <div class="container-fluid hidden-xs hidden-sm " style="padding:0">
+        <div class="container">
+            <div>
+
+                <h1><b>Ramgonj Government College</b></h1>
+            </div>
+
+            <div class="w3-display-topright">
+                
+                    <label><b>Username</b></label>
+                    <input type="text" placeholder="User ID" required />
+
+                    <label><b>Password</b></label>
+                    <input type="password" placeholder="Enter Password" name="password" required>
+                    <button class="buttonlog"><b>Log in</b></button>
+                </div>
+               
+            </div>
+    </div>
+    <div class="container-fluid visible-xs visible-sm " style="padding:0">
+        <div class="container">
+            <div>
+
+                <h1><b>Ramgonj Government College</b></h1>
+            </div>
+            <label><b>Username</b></label>
+            <input type="text" placeholder="User ID" required>
+            <br />
+
+            <label><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="password" required>
+            <button class="buttonlog"><b>Log in</b></button>
+
+        </div>
+    </div>
+    <div>
+        <nav class="navbar navbar-inverse">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                </div>
+                <div class="navbar-collapse collapse ">
+                    <ul class="nav navbar-nav menu-textsize">
+                        <li><a asp-area="" asp-controller="Home" asp-action="Index">প্রচ্ছদ</a></li>
+                        <li class="dropdown">
+                            <a>আমাদের কথা</a>
+                            <div class="dropdown-content">
+                                <a asp-area="" asp-controller="About" asp-action="AboutHistory">ইতিহাস</a>
+                                <a asp-area="" asp-controller="About" asp-action="AboutMission">লক্ষ ও উদ্দেশ্য</a>
+                            </div>
+                        </li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="Admission">ভর্তি তথ্য</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="Teachers">শিক্ষক মন্ডলী</a></li>
+                        <li class="dropdown">
+                            <a href="">শিক্ষার্থী</a>
+                            <div class="dropdown-content">
+                                <a asp-area="" asp-controller="Students" asp-action="Alumni">পুরাতন শিক্ষার্থী</a>
+                                <a asp-area="" asp-controller="Students" asp-action="CurrentStudents">নতুন শিক্ষার্থী</a>
+                            </div>
+                        </li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="Result">ফলাফল</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="Notice">নোটিশ</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="Contact">যোগাযোগ </a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    <partial name="_CookieConsentPartial" />
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <div id="ja-botsl">
+                <h5 id="nh5">Ramgonj Govt. College</h5>
+                <h5 id="h5">College Code(Board): 7125, College Code(NU): 4006, EIIN-107108</h5>
+                <h5 id="h5">ডাকঘর: N/A, উপজেলা: Ramgonj, জেলা: Laksmipur</h5>
+                <h5 id="h5">মোবাইল : 01754422660</h5>
+            </div>
+            <div id="ja-footer">
+                <span>Design &amp; Developed by&nbsp;</span><a><font wieght="bold">Md. Tofiqur Rahman</font></a>
+                <p style="float:right"><font color="#fff">Copyright © Ramgonj Govt. College</font></p>
+            </div>
+        </footer>
+    </div>
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous"
+                integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT">
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                crossorigin="anonymous"
+                integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+        </script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+    </environment>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

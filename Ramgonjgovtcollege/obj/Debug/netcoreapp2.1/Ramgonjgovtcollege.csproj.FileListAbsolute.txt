@@ -1,0 +1,76 @@
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\bin\Debug\netcoreapp2.1\Ramgonjgovtcollege.deps.json
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\bin\Debug\netcoreapp2.1\Ramgonjgovtcollege.runtimeconfig.json
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\bin\Debug\netcoreapp2.1\Ramgonjgovtcollege.runtimeconfig.dev.json
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\bin\Debug\netcoreapp2.1\Ramgonjgovtcollege.dll
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\bin\Debug\netcoreapp2.1\Ramgonjgovtcollege.pdb
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\bin\Debug\netcoreapp2.1\Ramgonjgovtcollege.Views.dll
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\bin\Debug\netcoreapp2.1\Ramgonjgovtcollege.Views.pdb
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.csprojAssemblyReference.cache
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.csproj.CoreCompileInputs.cache
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.RazorAssemblyInfo.cache
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.RazorAssemblyInfo.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.AssemblyInfoInputs.cache
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.AssemblyInfo.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.TagHelpers.input.cache
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.TagHelpers.output.cache
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.RazorCoreGenerate.cache
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.RazorTargetAssemblyInfo.cache
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.RazorTargetAssemblyInfo.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.Views.pdb
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.dll
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.pdb
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.csproj.CopyComplete
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admission.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Home\Notice.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Home\Result.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Home\Teachers.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\About\AboutHistory.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\About\AboutMission.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Students\Alumni.g.cshtml.cs
+D:\visual project\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Students\CurrentStudents.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\bin\Debug\netcoreapp2.1\Ramgonjgovtcollege.deps.json
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\bin\Debug\netcoreapp2.1\Ramgonjgovtcollege.runtimeconfig.json
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\bin\Debug\netcoreapp2.1\Ramgonjgovtcollege.runtimeconfig.dev.json
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\bin\Debug\netcoreapp2.1\Ramgonjgovtcollege.dll
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\bin\Debug\netcoreapp2.1\Ramgonjgovtcollege.pdb
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\bin\Debug\netcoreapp2.1\Ramgonjgovtcollege.Views.dll
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\bin\Debug\netcoreapp2.1\Ramgonjgovtcollege.Views.pdb
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.csprojAssemblyReference.cache
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.csproj.CoreCompileInputs.cache
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.RazorAssemblyInfo.cache
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.RazorAssemblyInfo.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.AssemblyInfoInputs.cache
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.AssemblyInfo.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.TagHelpers.input.cache
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.TagHelpers.output.cache
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.RazorCoreGenerate.cache
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\About\AboutHistory.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\About\AboutMission.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admission.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Home\Notice.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Home\Result.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Home\Teachers.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Students\Alumni.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\Students\CurrentStudents.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.RazorTargetAssemblyInfo.cache
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.RazorTargetAssemblyInfo.cs
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.Views.pdb
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.dll
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.pdb
+E:\RamgonjgovtcollegeSolution\Ramgonjgovtcollege\obj\Debug\netcoreapp2.1\Ramgonjgovtcollege.csproj.CopyComplete
